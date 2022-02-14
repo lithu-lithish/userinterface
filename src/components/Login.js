@@ -99,7 +99,7 @@ const Login= ({setAuth}) => {
     
 
         
-        <button className = "btn btn-primary btn-block">Submit</button>
+        <button className = "btn btn-primary btn-block">Log-in</button>
          </form>
         {/* <button onClick={()=> setAuth(true)} >Authenticate</button>  */}
 
