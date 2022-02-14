@@ -118,7 +118,7 @@ const Register = ({setAuth}) => {
   justifyContent="center"
   alignItems="center"
 > </Grid>
-        <button className = "btn btn-primary btn-block">Sign-up</button>
+        <button className = "btn btn-primary btn-block">Register</button>
         
         </form> 
         Have an account?
